@@ -1,0 +1,9 @@
+
+JOB DESCRIPTION: Senior Python / AI Engineer
+Location: Remote
+Skills Needed:
+- Python, FastAPI
+- Build responsive Streamlit dashboards
+- Experience with vector databases (FAISS, Chroma)
+- Integration of LLM services (Gemini, OpenAI)
+- Experience deploying to AWS (scalable architectures)
